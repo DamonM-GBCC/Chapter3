@@ -10,7 +10,7 @@ public class Main {
 
         x = scnr.nextInt();
 
-        /* Type your code here. */
+        y = (1.0 / 3) * x + (x / 4.0) + 2 * x;
 
         System.out.println(y);
     }
